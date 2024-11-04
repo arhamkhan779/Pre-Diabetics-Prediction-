@@ -1,13 +1,9 @@
-To display a video directly in your GitHub README file, you can't embed it like you would on a web page, but you can provide a link to the video file in your repository. Here’s how to adjust the README to include a link to your video:
-
----
-
 # Diabetes Prediction
 
 ## Demo Video
 
-Watch the demo of the application on YouTube:
-[![Watch the demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://youtu.be/WRmHlcUr0DE)
+Watch the demo of the application here:  
+[![Watch the demo](https://img.youtube.com/vi/WRmHlcUr0DE/0.jpg)](https://youtu.be/WRmHlcUr0DE)
 
 ## Overview
 
@@ -114,7 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Special thanks to the contributors and tools that facilitated the project, including libraries for machine learning and data visualization.
-
----
-
-Feel free to update the path for the video file if necessary, and let me know if you need any further adjustments!
