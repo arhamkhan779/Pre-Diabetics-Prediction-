@@ -62,20 +62,13 @@ This project aims to predict the likelihood of diabetes in individuals using a d
 
 Here are some screenshots of the application:
 
-1. **Main Interface**  
-   ![Main Interface](path/to/main_interface.png) <!-- Replace with actual path -->
-
-2. **Input Metrics Form**  
-   ![Input Metrics](path/to/input_metrics.png) <!-- Replace with actual path -->
+1. **Visualization**  
+   !(p1.png)
+   
+   !(p2.png) 
 
 3. **Prediction Results**  
-   ![Prediction Results](path/to/prediction_results.png) <!-- Replace with actual path -->
-
-4. **Exploratory Data Analysis**  
-   ![EDA Example](path/to/eda_example.png) <!-- Replace with actual path -->
-
-5. **Model Training Visualization**  
-   ![Model Training](path/to/model_training.png) <!-- Replace with actual path -->
+   ![Prediction Results](p5) <!-- Replace with actual path -->
 
 ## Workflow
 
