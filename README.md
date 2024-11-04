@@ -1,4 +1,4 @@
-Sure! Here’s the revised README structure, starting with a heading, followed by a section for a YouTube video, and then the rest of the content.
+To display a video directly in your GitHub README file, you can't embed it like you would on a web page, but you can provide a link to the video file in your repository. Here’s how to adjust the README to include a link to your video:
 
 ---
 
@@ -6,7 +6,7 @@ Sure! Here’s the revised README structure, starting with a heading, followed b
 
 ## Demo Video
 
-Watch the demo of the application on YouTube: [Diabetes Prediction Demo](https://github.com/arhamkhan779/Pre-Diabetics-Prediction-/blob/faaf1a0328f70aba1818d07949e0c49b506225a5/prediabetes.mp4) <!-- Replace with your actual YouTube link -->
+You can watch the demo of the application here: [Diabetes Prediction Demo Video](prediabetes.mp4) <!-- This links to your video file in the repo -->
 
 ## Overview
 
@@ -116,4 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to replace the placeholder paths and YouTube link with your actual content!
+Feel free to update the path for the video file if necessary, and let me know if you need any further adjustments!
