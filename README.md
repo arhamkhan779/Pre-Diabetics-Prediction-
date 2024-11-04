@@ -6,7 +6,8 @@ To display a video directly in your GitHub README file, you can't embed it like 
 
 ## Demo Video
 
-You can watch the demo of the application here: [Diabetes Prediction Demo Video](prediabetes.mp4) <!-- This links to your video file in the repo -->
+Watch the demo of the application on YouTube:
+[![Watch the demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://youtu.be/WRmHlcUr0DE)
 
 ## Overview
 
