@@ -58,18 +58,6 @@ This project aims to predict the likelihood of diabetes in individuals using a d
    python app.py
    ```
 
-## Application Interface
-
-Here are some screenshots of the application:
-
-1. **Visualization**  
-   !(p1.png)
-   
-   !(p2.png) 
-
-3. **Prediction Results**  
-   ![Prediction Results](p5) <!-- Replace with actual path -->
-
 ## Workflow
 
 1. **Data Ingestion**:
