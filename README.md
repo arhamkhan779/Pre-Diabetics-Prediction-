@@ -6,7 +6,7 @@ Sure! Here’s the revised README structure, starting with a heading, followed b
 
 ## Demo Video
 
-Watch the demo of the application on YouTube: [Diabetes Prediction Demo]() <!-- Replace with your actual YouTube link -->
+Watch the demo of the application on YouTube: [Diabetes Prediction Demo](https://github.com/arhamkhan779/Pre-Diabetics-Prediction-/blob/faaf1a0328f70aba1818d07949e0c49b506225a5/prediabetes.mp4) <!-- Replace with your actual YouTube link -->
 
 ## Overview
 
